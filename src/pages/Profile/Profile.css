@@ -1,0 +1,17 @@
+.profile {
+  padding: 15.5rem 0;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile h2 {
+  padding: 1rem;
+}
+
+.profile-img img {
+  width: 8rem;
+  border-radius: 5rem;
+}

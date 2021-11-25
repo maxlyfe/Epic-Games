@@ -1,0 +1,44 @@
+.search {
+  background-color: black;
+  padding: 4rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.search span {
+  font-size: 1.5em;
+  font-weight: 600;
+  padding: 0 1rem;
+}
+
+.search-input {
+  background-color: black;
+  padding: 1rem;
+}
+
+.type {
+  margin: 0 0.5rem;
+  width: 32rem;
+  padding: 0.5rem;
+  font-size: 1.1em;
+  border: none;
+}
+
+.btn {
+  background-color: rgb(41, 41, 41);
+  color: white;
+  margin: 0 0.5rem;
+  width: 10rem;
+  padding: 1rem;
+  font-size: 1.1em;
+  border-radius: 5%;
+  border: none;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: white;
+  transition: all 200ms ease;
+}
